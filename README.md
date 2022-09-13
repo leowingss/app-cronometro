@@ -11,7 +11,7 @@
 
  <img src="https://github.com/leowingss/app-cronometro/blob/main/assets/cronometro.PNG?raw=true" alt="Tela inicial"/> <br/>
  <br>
- <img src="./assets/cronometro.png" alt="Tela inicial"/>
+ <img src="https://github.com/leowingss/app-cronometro/blob/main/assets/tela-inicial.PNG?raw=true" alt="Tela inicial"/>
 
 
 # Tecnologias utilizadas 
